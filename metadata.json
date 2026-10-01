@@ -1,0 +1,6 @@
+{
+  "name": "GESCOTI",
+  "description": "GESCOTI - Application SaaS multi-tenant de gestion des cotisations, membres, caisse et pastorale pour paroisses et organisations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
